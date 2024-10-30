@@ -11,6 +11,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Debug Info
+  run: |
+    echo "Running on: ${{ github.event_name }}"
+    echo "GitHub User: RIGUETE-PEDRO"
+
       - uses: Platane/snk@v2
         with:
           github_user_name: RIGUETE-PEDRO
