@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@v2
         with:
           github_user_name: RIGUETE-PEDRO
-          outputs: dist/snake.svg
+          output: dist/snake.svg  # Corrigido
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
