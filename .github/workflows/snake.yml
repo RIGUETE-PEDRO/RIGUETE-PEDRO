@@ -11,15 +11,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      
       - name: Debug Info
-  run: |
-    echo "Running on: ${{ github.event_name }}"
-    echo "GitHub User: RIGUETE-PEDRO"
+        run: |
+          echo "Running on: ${{ github.event_name }}"
+          echo "GitHub User: RIGUETE-PEDRO"
 
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@latest  # Usando a versão mais recente
         with:
           github_user_name: RIGUETE-PEDRO
-          output: dist/snake.svg  # Corrigido
+          output: dist/snake.svg
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Usando o token de acesso pessoal
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
