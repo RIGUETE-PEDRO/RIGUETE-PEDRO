@@ -16,28 +16,4 @@
 <img align="center" alt = "c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img align="center" alt = "CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-![Snake animation](https://github.com/RIGUETE-PEDRO/RIGUETE-PEDRO/blob/output/github-contribution-grid-snake.svg)
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: Riguete-Pedro
-          outputs: dist/snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
