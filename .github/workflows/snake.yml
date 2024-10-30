@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: RIGUETE-PEDRO
           output: dist/snake.svg
-          github_token: ${{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}}  # Substitua esta linha para usar o secret
+          github_token: ${{}}  # Substitua esta linha para usar o secret
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
