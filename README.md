@@ -13,7 +13,7 @@
 ##
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>.
 ##
-TECNOLOGIAS DO DIA A DIA
+### TECNOLOGIAS DO DIA A DIA
 ##
 <div style="display:inline_block"><br/>
 <img  align="center" alt = "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
