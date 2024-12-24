@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIGUETE-PEDRO)](https://github.com/RIGUETE-PEDRO/github-readme-stats)
 ##
-![Snake animation](https://github.com/RIGUETE-PEDRO/RIGUETE-PEDRO/blob/output/github-contribution-grid-snake.svg)
 ### ESTOU APRENDENDO
 ##
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>.
