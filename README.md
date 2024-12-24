@@ -23,6 +23,7 @@
 ###
 
 <div align="center">
+  <h2 aling="center">visualização</h2>
   <img src="https://profile-counter.glitch.me/RIGUETE-PEDRO/count.svg?"  />
 </div>
 
