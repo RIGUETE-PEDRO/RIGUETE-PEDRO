@@ -9,7 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIGUETE-PEDRO)](https://github.com/RIGUETE-PEDRO/github-readme-stats)
 ##
 ##
-ESTOU APRENDENDO
+### ESTOU APRENDENDO
+##
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 ### TECNOLOGIAS DO DIA A DIA
 
