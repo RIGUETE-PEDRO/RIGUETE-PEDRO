@@ -14,7 +14,6 @@
 ##
 ### TECNOLOGIAS DO DIA A DIA
 [![My Skills](https://skillicons.dev/icons?i=c,windows,html,css,java,sublime,ps,)](https://skillicons.dev)
-
 ##
 
 
