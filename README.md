@@ -1,4 +1,4 @@
-### olá meu nome e Pedro Henrique Riguete 👋
+
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/28999534886)[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ph_riguete?igsh=OGVteWZzeDl3eW1p)
 <a href = "mailto:riguetepedro0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <h2 align="left">olá meu nome e Pedro Henrique 👋!</h2>
@@ -6,6 +6,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=RIGUETE-PEDRO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIGUETE-PEDRO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
