@@ -4,12 +4,6 @@
 <h2 align="left">Olá meu nome e Pedro Henrique 👋!</h2>
 
 ###
-<h2 align="center">Idiomas
-<h3>PORTUGUES-BR = FLUENTE</h3>
-<h3>INGLES = BASICO</h3>
-</h2>
-
-<div></div>
 
 <div align="center">
  
