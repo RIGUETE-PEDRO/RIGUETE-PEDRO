@@ -30,8 +30,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=RIGUETE-PEDRO&theme=dark&hide_border=false"
-        alt="Github Stats"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=RIGUETE-PEDRO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" 
       />
     </td>
   </tr>
