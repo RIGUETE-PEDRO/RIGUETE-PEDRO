@@ -28,6 +28,24 @@
 </table>
 
 --- 
+<br>
+<p align="center">
+  <img src="https://github.com/RIGUETE-PEDRO/RIGUETE-PEDRO/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="night-contrib">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0513.gif" width="9000" height="50"> 
+</p>
+
+<br>
+
+<p align="center">
+ 
+![RIGUETE-PEDRO GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RIGUETE-PEDRO&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+</p>
 
 <br clear="both">
 
