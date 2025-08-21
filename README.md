@@ -29,11 +29,6 @@
 
 --- 
 
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/blob/DH%40NOLA/profile-3d-contrib/profile-night-rainbow.svg" alt="night-contrib"></center>
-</p>
-
 
 <br>
 <p align="center">
