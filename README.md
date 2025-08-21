@@ -32,7 +32,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/RIGUETE-PEDRO/RIGUETE-PEDRO/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="night-contrib">
+ ![Minhas Contribuições 3D](https://raw.githubusercontent.com/RIGUETE-PEDRO/RIGUETE-PEDRO/main/profile-3d.svg)
 </p>
 
 <br>
