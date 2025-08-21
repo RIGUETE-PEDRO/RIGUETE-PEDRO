@@ -8,12 +8,7 @@
 <a href = "mailto:riguetepedro0@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-###
 
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIGUETE-PEDRO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### ⚙️ GitHub Analytics
 
@@ -21,7 +16,6 @@
   <tr>
     <td>
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RIGUETE-PEDRO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-      />
     </td>
     <td>
       <br />
