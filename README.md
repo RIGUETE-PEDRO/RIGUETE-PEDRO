@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&size=28&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Henrique!+;Estudante+de+ADS+%7C+Web%2C+Banco+de+Dados+e+Redes;Criatividade+%2B+Tecnologia+%2B+Inova%C3%A7%C3%A3o+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C853&center=true&vCenter=true&size=28&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Henrique!;💻+Estudante+de+ADS+%7C+Web%2C+Banco+de+Dados+e+Redes;🎨+%2B+⚙%EF%B8%8F+%2B+🚀+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
+
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/28999534886)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ph_riguete?igsh=OGVteWZzeDl3eW1p)
