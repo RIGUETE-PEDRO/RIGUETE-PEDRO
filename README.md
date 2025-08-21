@@ -30,10 +30,7 @@
 --- 
 
 
-<br>
-<p align="center">
- ![Minhas Contribuições 3D](https://raw.githubusercontent.com/RIGUETE-PEDRO/RIGUETE-PEDRO/main/profile-3d.svg)
-</p>
+
 
 <br>
 
